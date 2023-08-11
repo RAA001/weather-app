@@ -18,4 +18,4 @@
 
 5. Run app:
 	npm run dev
-a
+
