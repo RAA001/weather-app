@@ -1,5 +1,5 @@
-# weather-app1. 
-Check if you have node and npm installed:
+# weather-app
+1. Check if you have node and npm installed:
 	node -v
 	npm -v
 
